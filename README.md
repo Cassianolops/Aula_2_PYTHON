@@ -1,6 +1,6 @@
 # PYTHON_AULA2🚀
 
-Nesta aula aprendemos sobre variáveis, tipos de variáveis, variáveis primitivas.
+Nesta aula aprendemos sobre variáveis, tipos de variáveis e variáveis primitivas.
 
 # 🔌Como fazer funcionar na sua máquina:
 
